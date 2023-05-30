@@ -25,8 +25,8 @@ Or you can actually fork this repo, add your link and issue a pull request.
 ### Semester 5
 | Course | Link | Creators | Year
 | -- | -- | -- | -- |
-| Networks | [https://github.com/mathewhany/marvel-ultimate-war](https://github.com/mathewhany/explorium) | [@mathewhany](https://github.com/mathewhany), [@RafeeQq](https://github.com/RafeeQq), [@BoleWaheed](https://github.com/BolesWaheed) | 2022
-| Databases I | [https://github.com/John-louis1/marvel-ultimate-war](https://github.com/RafeeQq/db-project) | [@mathewhany](https://github.com/mathewhany), [@RafeeQq](https://github.com/RafeeQq), [@BoleWaheed](https://github.com/BolesWaheed), [@a7madgom3a16](https://github.com/a7madgom3a16) | 2022
+| Networks | [[https://github.com/mathewhany/](https://github.com/mathewhany/explorium)](https://github.com/mathewhany/explorium) | [@mathewhany](https://github.com/mathewhany), [@RafeeQq](https://github.com/RafeeQq), [@BoleWaheed](https://github.com/BolesWaheed) | 2022
+| Databases I | [https://github.com/RafeeQq/db-project)](https://github.com/RafeeQq/db-project) | [@mathewhany](https://github.com/mathewhany), [@RafeeQq](https://github.com/RafeeQq), [@BoleWaheed](https://github.com/BolesWaheed), [@a7madgom3a16](https://github.com/a7madgom3a16) | 2022
 
 ### Semester 6
 | Course | Link | Creators | Year
