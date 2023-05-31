@@ -36,3 +36,8 @@ Or you can actually fork this repo, add your link and issue a pull request.
 | OS | [https://github.com/mathewhany/operating-system-simulator](https://github.com/mathewhany/operating-system-simulator) | [@mathewhany](https://github.com/mathewhany), [@RafeeQq](https://github.com/RafeeQq), [@BoleWaheed](https://github.com/BolesWaheed), [@a7madgom3a16](https://github.com/a7madgom3a16), [@mostafa-elamory](https://github.com/mostafa-elamory) | 2023
 | Computer Architecture | [https://github.com/mathewhany/harvard-computer-architecture-java-simulator](https://github.com/mathewhany/harvard-computer-architecture-java-simulator) | [@mathewhany](https://github.com/mathewhany), [@RafeeQq](https://github.com/RafeeQq), [@BoleWaheed](https://github.com/BolesWaheed), [@a7madgom3a16](https://github.com/a7madgom3a16), [@MarkMahrous](https://github.com/MarkMahrous) | 2023
 | Software Engineering | [https://github.com/software-engineering-2023/Batates-M7mra](https://github.com/software-engineering-2023/Batates-M7mra) | [@mathewhany](https://github.com/mathewhany), [@RafeeQq](https://github.com/RafeeQq), [@BoleWaheed](https://github.com/BolesWaheed), [@a7madgom3a16](https://github.com/a7madgom3a16), [@mostafa-elamory](https://github.com/mostafa-elamory) | 2023
+
+### Semester 7
+| Course | Link | Creators | Year
+| -- | -- | -- | -- |
+| Microprocessors | [https://github.com/Abdullah204/TomasuloSimulation](https://github.com/Abdullah204/TomasuloSimulation) | [@Abdullah204](https://github.com/Abdullah204), [@Haggag23](https://github.com/Haggag23), [Hussein Ebrahim](https://www.linkedin.com/in/hussein-yasser-044613206/?originalSubdomain=eg), [Adam Abouelmagd](https://www.linkedin.com/in/adam-abouelmagd-b90387228/) | 2022 
