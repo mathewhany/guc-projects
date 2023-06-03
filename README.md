@@ -7,6 +7,7 @@
     - [Semester 4](#semester-4)
     - [Semester 5](#semester-5)
     - [Semester 6](#semester-6)
+    - [Semester 7](#semester-7)
 
 ## 👋🏻 How to Contribute?
 If you want to add your project to the list you can [open an issue](https://github.com/mathewhany/guc-projects/issues/new) and attach the following information: 
