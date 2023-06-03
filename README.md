@@ -1,7 +1,14 @@
 # GUC Projects
 👨‍🎓 A reference of GUC's course projects. These projects are contributed by me and other students who want to share their work and help others learn. You can use this repo as a reference, inspiration, or learning resource. 
 
-## How to Contribute?
+## Table of Contents
+- [How to Contribute?](#-how-to-contribute)
+- [MET](#-met)
+    - [Semester 4](#semester-4)
+    - [Semester 5](#semester-5)
+    - [Semester 6](#semester-6)
+
+## 👋🏻 How to Contribute?
 If you want to add your project to the list you can [open an issue](https://github.com/mathewhany/guc-projects/issues/new) and attach the following information: 
 1. A link to your project
 2. Members of your team and links to their GitHub profiles (or any other profile!)
@@ -11,7 +18,7 @@ If you want to add your project to the list you can [open an issue](https://gith
 Or you can actually fork this repo, add your link and issue a pull request. 
 
 
-## MET
+## 👨🏻‍💻 MET
 ### Semester 4
 | Course | Link | Creators | Year
 | -- | -- | -- | -- |
@@ -38,6 +45,7 @@ Or you can actually fork this repo, add your link and issue a pull request.
 | OS | [https://github.com/mathewhany/operating-system-simulator](https://github.com/mathewhany/operating-system-simulator) | [@mathewhany](https://github.com/mathewhany), [@RafeeQq](https://github.com/RafeeQq), [@BoleWaheed](https://github.com/BolesWaheed), [@a7madgom3a16](https://github.com/a7madgom3a16), [@mostafa-elamory](https://github.com/mostafa-elamory) | 2023
 | Computer Architecture | [https://github.com/mathewhany/harvard-computer-architecture-java-simulator](https://github.com/mathewhany/harvard-computer-architecture-java-simulator) | [@mathewhany](https://github.com/mathewhany), [@RafeeQq](https://github.com/RafeeQq), [@BoleWaheed](https://github.com/BolesWaheed), [@a7madgom3a16](https://github.com/a7madgom3a16), [@MarkMahrous](https://github.com/MarkMahrous) | 2023
 | Software Engineering | [https://github.com/software-engineering-2023/Batates-M7mra](https://github.com/software-engineering-2023/Batates-M7mra) | [@mathewhany](https://github.com/mathewhany), [@RafeeQq](https://github.com/RafeeQq), [@BoleWaheed](https://github.com/BolesWaheed), [@a7madgom3a16](https://github.com/a7madgom3a16), [@mostafa-elamory](https://github.com/mostafa-elamory) | 2023
+| Software Engineering | [https://github.com/seiffhany/nile-delta-bank](https://github.com/seiffhany/nile-delta-bank) | [Seif Hany](https://github.com/seiffhany), [Abdelrahman Alaa](https://github.com/Bodia55), [Youssef Ayman](https://github.com/youssefayman02), [Mostafa Sohile](https://github.com/Mostafaa-S), [Omar Gamal](https://github.com/0J33)  | 2023
 
 ### Semester 7
 | Course | Link | Creators | Year
