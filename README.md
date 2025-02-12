@@ -1,23 +1,17 @@
 # GUC Projects
-👨‍🎓 A reference of GUC's course projects. These projects are contributed by me and other students who want to share their work and help others learn. You can use this repo as a reference, inspiration, or learning resource. 
+👨‍🎓 A reference of GUC's course projects (+ helping materials such as VODs, previous exams ... etc). These projects are contributed by me and other students who want to share their work and help others learn. You can use this repo as a reference, inspiration, or learning resource. 
 
 ## Table of Contents
-- [How to Contribute?](#-how-to-contribute)
 - [MET](#-met)
     - [Semester 4](#semester-4)
     - [Semester 5](#semester-5)
     - [Semester 6](#semester-6)
     - [Semester 7](#semester-7)
-
-## 👋🏻 How to Contribute?
-If you want to add your project to the list you can [open an issue](https://github.com/mathewhany/guc-projects/issues/new) and attach the following information: 
-1. A link to your project
-2. Members of your team and links to their GitHub profiles (or any other profile!)
-3. Which major and semester does the project belong to
-4. When was the project created (What year?)
-
-Or you can actually fork this repo, add your link and issue a pull request. 
-
+    - [Semester 9](#semester-9)
+        - [VODs](#semester-9-vods)
+    - [Semester 10](#semester-10)
+        - [VODs & Previous Material](#semester-10-vods-and-material)  
+- [How to Contribute?](#-how-to-contribute)
 
 ## 👨🏻‍💻 MET
 ### Semester 4
@@ -61,4 +55,23 @@ Or you can actually fork this repo, add your link and issue a pull request.
 | Graphics | https://github.com/mathewhany/graphics-assignment-2 | [@mathewhany](https://github.com/mathewhany) | 2023
 | ACL | https://github.com/advanced-computer-lab-2023/Copilot-and-Sons-Clinic | [@mathewhany](https://github.com/mathewhany), [@SaraAlajmy](https://github.com/SaraAlajmy), [@NairuzY](https://github.com/NairuzY), [@ramezlahzy](https://github.com/ramezlahzy), [@FaridaAbdelghaffar](https://github.com/FaridaAbdelghaffar), [@MarwaAwd](https://github.com/MarwaAwd), [@Youssof-Kandil](https://github.com/Youssof-Kandil), [@zahra-saadawy](https://github.com/zahra-saadawy), [@Dareenfadel](https://github.com/Dareenfadel), [@Youssef1Shawky](https://github.com/Youssef1Shawky) | 2023
 | ACL | https://github.com/advanced-computer-lab-2023/Copilot-and-Sons-Pharmacy | [@mathewhany](https://github.com/mathewhany), [@SaraAlajmy](https://github.com/SaraAlajmy), [@NairuzY](https://github.com/NairuzY), [@ramezlahzy](https://github.com/ramezlahzy), [@FaridaAbdelghaffar](https://github.com/FaridaAbdelghaffar), [@MarwaAwd](https://github.com/MarwaAwd), [@Youssof-Kandil](https://github.com/Youssof-Kandil), [@zahra-saadawy](https://github.com/zahra-saadawy), [@Dareenfadel](https://github.com/Dareenfadel), [@Youssef1Shawky](https://github.com/Youssef1Shawky) | 2023
+
+### Semester 9
+<h4 id="semester-9-vods">VODS</h4>
+
+[Google Drive](https://drive.google.com/drive/folders/1vJ4vuGwKV2qthv0wbxGtHAV5iTk5rNyR)
+
+### Semester 10
+<h4 id="semester-10-vods-and-material">VODS & Previous Material:</h4>
+
+[Google Drive](https://drive.google.com/drive/folders/13gKWYwPiyfascsYzPRKkX_IxKYS2dspi)
+
+## 👋🏻 How to Contribute?
+If you want to add your project to the list you can [open an issue](https://github.com/mathewhany/guc-projects/issues/new) and attach the following information: 
+1. A link to your project
+2. Members of your team and links to their GitHub profiles (or any other profile!)
+3. Which major and semester does the project belong to
+4. When was the project created (What year?)
+
+Or you can actually fork this repo, add your link and issue a pull request. 
 
