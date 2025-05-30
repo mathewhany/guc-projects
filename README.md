@@ -80,11 +80,19 @@
 
 <hr>
 
-| Course | Link | Creators | Year
+| Course / Task | Link | Creators | Year
 | -- | -- | -- | -- |
-| ACL | https://github.com/SaraAlajmy/FinalProject-4-Coppilot-Sons-EndGame | [@mathewhany](https://github.com/mathewhany), [@SaraAlajmy](https://github.com/SaraAlajmy), [@NairuzY](https://github.com/NairuzY), [@MarwaAwd](https://github.com/MarwaAwd), [@Youssof-Kandil](https://github.com/Youssof-Kandil), [@zahra-saadawy](https://github.com/zahra-saadawy), [@Dareenfadel](https://github.com/Dareenfadel), [@farahalfawzy](https://github.com/farahalfawzy), [@ahmedhgabr](https://github.com/ahmedhgabr), [@ZeyadHabash](https://github.com/ZeyadHabash), [@Shorok02](https://github.com/Shorok02), [@malakElWassif](https://github.com/malakElWassif) | 2025
-| Compilers | https://github.com/mathewhany/guc-52-compilers-assignment-1 | [@mathewhany](https://github.com/mathewhany) | 2025
-| Compilers | https://github.com/mathewhany/guc-52-compilers-assignment-2 | [@mathewhany](https://github.com/mathewhany) | 2025
+| ACL Final Project | https://github.com/SaraAlajmy/FinalProject-4-Coppilot-Sons-EndGame | [@mathewhany](https://github.com/mathewhany), [@SaraAlajmy](https://github.com/SaraAlajmy), [@NairuzY](https://github.com/NairuzY), [@MarwaAwd](https://github.com/MarwaAwd), [@Youssof-Kandil](https://github.com/Youssof-Kandil), [@zahra-saadawy](https://github.com/zahra-saadawy), [@Dareenfadel](https://github.com/Dareenfadel), [@farahalfawzy](https://github.com/farahalfawzy), [@ahmedhgabr](https://github.com/ahmedhgabr), [@ZeyadHabash](https://github.com/ZeyadHabash), [@Shorok02](https://github.com/Shorok02), [@malakElWassif](https://github.com/malakElWassif) | 2025
+| ACL Task 1 | https://github.com/mathewhany/guc-semester-10-acl-task-1 | [@mathewhany](https://github.com/mathewhany) | 2025
+| ACL Task 2 | https://github.com/mathewhany/guc-semester-10-acl-task-2 | [@mathewhany](https://github.com/mathewhany) | 2025
+| ACL Task 3 | https://github.com/mathewhany/guc-semester-10-acl-task-3 | [@mathewhany](https://github.com/mathewhany) | 2025
+| ACL Task 4 | https://github.com/mathewhany/guc-semester-10-acl-task-4 | [@mathewhany](https://github.com/mathewhany) | 2025
+| ACL Task 5 | https://github.com/mathewhany/guc-semester-10-acl-task-5 | [@mathewhany](https://github.com/mathewhany) | 2025
+| ACL Task 6 | https://github.com/mathewhany/guc-semester-10-acl-task-6 | [@mathewhany](https://github.com/mathewhany) | 2025
+| Compilers Assignment 1 | https://github.com/mathewhany/guc-52-compilers-assignment-1 | [@mathewhany](https://github.com/mathewhany) | 2025
+| Compilers Assignment 2 | https://github.com/mathewhany/guc-52-compilers-assignment-2 | [@mathewhany](https://github.com/mathewhany) | 2025
+
+
 
 
 <hr>
