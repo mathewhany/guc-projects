@@ -13,6 +13,9 @@
         - [VODs & Previous Material](#semester-10-vods-and-material)  
 - [How to Contribute?](#-how-to-contribute)
 
+<hr>
+
+
 ## 👨🏻‍💻 MET
 ### Semester 4
 | Course | Link | Creators | Year
@@ -36,6 +39,9 @@
 | Databases I | [https://github.com/john-roufaeil/match-s-zone](https://github.com/john-roufaeil/match-s-zone) | [@john-roufaeil](https://github.com/john-roufaeil) | 2022
 
 
+<hr>
+
+
 ### Semester 6
 | Course | Link | Creators | Year
 | -- | -- | -- | -- |
@@ -56,15 +62,32 @@
 | ACL | https://github.com/advanced-computer-lab-2023/Copilot-and-Sons-Clinic | [@mathewhany](https://github.com/mathewhany), [@SaraAlajmy](https://github.com/SaraAlajmy), [@NairuzY](https://github.com/NairuzY), [@ramezlahzy](https://github.com/ramezlahzy), [@FaridaAbdelghaffar](https://github.com/FaridaAbdelghaffar), [@MarwaAwd](https://github.com/MarwaAwd), [@Youssof-Kandil](https://github.com/Youssof-Kandil), [@zahra-saadawy](https://github.com/zahra-saadawy), [@Dareenfadel](https://github.com/Dareenfadel), [@Youssef1Shawky](https://github.com/Youssef1Shawky) | 2023
 | ACL | https://github.com/advanced-computer-lab-2023/Copilot-and-Sons-Pharmacy | [@mathewhany](https://github.com/mathewhany), [@SaraAlajmy](https://github.com/SaraAlajmy), [@NairuzY](https://github.com/NairuzY), [@ramezlahzy](https://github.com/ramezlahzy), [@FaridaAbdelghaffar](https://github.com/FaridaAbdelghaffar), [@MarwaAwd](https://github.com/MarwaAwd), [@Youssof-Kandil](https://github.com/Youssof-Kandil), [@zahra-saadawy](https://github.com/zahra-saadawy), [@Dareenfadel](https://github.com/Dareenfadel), [@Youssef1Shawky](https://github.com/Youssef1Shawky) | 2023
 
+<hr>
+
+
 ### Semester 9
 <h4 id="semester-9-vods">VODS</h4>
 
 [Google Drive](https://drive.google.com/drive/folders/1vJ4vuGwKV2qthv0wbxGtHAV5iTk5rNyR)
 
+<hr>
+
 ### Semester 10
+
 <h4 id="semester-10-vods-and-material">VODS & Previous Material:</h4>
 
 [Google Drive](https://drive.google.com/drive/folders/13gKWYwPiyfascsYzPRKkX_IxKYS2dspi)
+
+<hr>
+
+| Course | Link | Creators | Year
+| -- | -- | -- | -- |
+| ACL | https://github.com/SaraAlajmy/FinalProject-4-Coppilot-Sons-EndGame | [@mathewhany](https://github.com/mathewhany), [@SaraAlajmy](https://github.com/SaraAlajmy), [@NairuzY](https://github.com/NairuzY), [@MarwaAwd](https://github.com/MarwaAwd), [@Youssof-Kandil](https://github.com/Youssof-Kandil), [@zahra-saadawy](https://github.com/zahra-saadawy), [@Dareenfadel](https://github.com/Dareenfadel), [@farahalfawzy](https://github.com/farahalfawzy), [@ahmedhgabr](https://github.com/ahmedhgabr), [@ZeyadHabash](https://github.com/ZeyadHabash), [@Shorok02](https://github.com/Shorok02), [@malakElWassif](https://github.com/malakElWassif) | 2025
+| Compilers | https://github.com/mathewhany/guc-52-compilers-assignment-1 | [@mathewhany](https://github.com/mathewhany) | 2025
+| Compilers | https://github.com/mathewhany/guc-52-compilers-assignment-2 | [@mathewhany](https://github.com/mathewhany) | 2025
+
+
+<hr>
 
 ## 👋🏻 How to Contribute?
 If you want to add your project to the list you can [open an issue](https://github.com/mathewhany/guc-projects/issues/new) and attach the following information: 
@@ -73,5 +96,5 @@ If you want to add your project to the list you can [open an issue](https://gith
 3. Which major and semester does the project belong to
 4. When was the project created (What year?)
 
-Or you can actually fork this repo, add your link and issue a pull request. 
+Or you can actually fork this repo, add your link and issue a pull request.
 
