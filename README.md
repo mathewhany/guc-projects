@@ -72,6 +72,15 @@
 
 <hr>
 
+| Course / Task | Link | Creators | Year
+| -- | -- | -- | -- |
+| AI Project 1 | https://github.com/NairuzY/Water-Sort-Game/ | [@farahalfawzy](https://github.com/farahalfawzy), [@mathewhany](https://github.com/mathewhany), [@NairuzY](https://github.com/NairuzY), [@MarwaAwd](https://github.com/MarwaAwd) | 2024
+| AI Project 2 | https://github.com/mathewhany/guc-semester-9-ai-project-2 | [@farahalfawzy](https://github.com/farahalfawzy), [@mathewhany](https://github.com/mathewhany), [@NairuzY](https://github.com/NairuzY), [@MarwaAwd](https://github.com/MarwaAwd) | 2024
+<hr>
+
+
+<hr>
+
 ### Semester 10
 
 <h4 id="semester-10-vods-and-material">VODS & Previous Material:</h4>
@@ -92,12 +101,6 @@
 | Compilers Assignment 1 | https://github.com/mathewhany/guc-52-compilers-assignment-1 | [@mathewhany](https://github.com/mathewhany) | 2025
 | Compilers Assignment 2 | https://github.com/mathewhany/guc-52-compilers-assignment-2 | [@mathewhany](https://github.com/mathewhany) | 2025
 
-<hr>
-
-| Course / Task | Link | Creators | Year
-| -- | -- | -- | -- |
-| AI Project 1 | https://github.com/NairuzY/Water-Sort-Game/ | [@farahalfawzy](https://github.com/farahalfawzy), [@mathewhany](https://github.com/mathewhany), [@NairuzY](https://github.com/NairuzY), [@MarwaAwd](https://github.com/MarwaAwd) | 2024
-| AI Project 2 | https://github.com/mathewhany/guc-semester-9-ai-project-2 | [@farahalfawzy](https://github.com/farahalfawzy), [@mathewhany](https://github.com/mathewhany), [@NairuzY](https://github.com/NairuzY), [@MarwaAwd](https://github.com/MarwaAwd) | 2024
 <hr>
 
 ## 👋🏻 How to Contribute?
